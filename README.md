@@ -4,7 +4,7 @@
 
 A probability-based personal finance simulation engine powered by Monte Carlo methods.
 Not a chatbot. Not a calculator. **A financial simulation engine** that shows you the *probability* of your future — and exactly what changes it.
-
+Live: finlife-os.streamlit.app
 ---
 
 ## 🚀 Quick Start (< 2 minutes)
